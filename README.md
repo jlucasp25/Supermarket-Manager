@@ -1,6 +1,7 @@
 # Supermarket Manager
-## **Computer Laboratory Class**
----
+
+**Computer Laboratory Class**
+
 Supermarket Manager application in C.
 
 ## Running steps:
